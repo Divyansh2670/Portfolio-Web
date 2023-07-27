@@ -36,14 +36,7 @@ To view any specific project, simply click on the corresponding link provided ab
 - Responsive Design: All projects are built with responsive layouts to ensure optimal viewing across different devices and screen sizes.
 - Clean and Organized Code: The HTML and CSS code in each project follows best practices, making it easy to understand and maintain.
 - Cross-Browser Compatibility: The websites have been tested on multiple browsers to ensure a consistent user experience.
-- CSS Preprocessing: (If applicable) Some projects use CSS preprocessor like Sass or Less to streamline stylesheets and improve code maintainability.
 
 ## Contributing
 
 As this is a personal portfolio, I currently do not accept direct contributions to this repository. However, I'm open to feedback and suggestions on my projects. If you notice any issues or have ideas for improvement, feel free to open an issue in the respective project's repository.
-
-## License
-
-This portfolio is licensed under the [MIT License](link-to-license). Feel free to use the code and resources here for personal and educational purposes. However, please refrain from using any content for commercial purposes without seeking permission.
-
-Thank you for visiting my portfolio! If you have any questions or would like to connect, feel free to reach out through the contact information provided in the portfolio website. Happy browsing!
